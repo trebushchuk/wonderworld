@@ -1,0 +1,24 @@
+{
+  "name": "wonderworld",
+  "version": "0.0.1",
+  "description": "Tryout to create a better world",
+  "main": "world.js",
+  "scripts": {
+    "test": "just --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/trebushuk/wonderworld.git"
+  },
+  "keywords": [
+    "mud",
+    "nodejs",
+    "socket.io"
+  ],
+  "author": "Trebushchuk Vladimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trebushuk/wonderworld/issues"
+  },
+  "homepage": "https://github.com/trebushuk/wonderworld#readme"
+}
